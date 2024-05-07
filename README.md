@@ -1,3 +1,5 @@
+This fork extends the original repository to support qtpy, enabling compatibility with a broader range of Qt bindings in addition to the original PySide implementation.
+
 # PySide2extn
 
 An extension for the Python PySide2 Qt Framework which expands the scope of the PySide2 package with many different modern widgets. Current release is occupied with two widget which are not natively present in the PySide2 package.
